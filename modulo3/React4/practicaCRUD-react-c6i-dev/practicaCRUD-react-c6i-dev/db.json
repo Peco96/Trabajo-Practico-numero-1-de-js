@@ -1,0 +1,40 @@
+{
+  "productos": [
+    {
+      "nombreProducto": "café",
+      "precio": 300,
+      "categoria": "bebida caliente",
+      "imagen": "https://images.pexels.com/photos/312418/pexels-photo-312418.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "id": 1
+    },
+    {
+      "nombreProducto": "brownie",
+      "precio": 250,
+      "categoria": "dulce",
+      "imagen": "https://images.pexels.com/photos/312418/pexels-photo-312418.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "id": 2
+    },
+    {
+      "nombreProducto": "licuado de durazno",
+      "precio": "400",
+      "imagen": "https://images.pexels.com/photos/312418/pexels-photo-312418.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "categoria": "bebida fria",
+      "id": 3
+    },
+    {
+      "nombreProducto": "facturas",
+      "precio": "50",
+      "imagen": "https://images.pexels.com/photos/1672304/pexels-photo-1672304.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "categoria": "dulce",
+      "id": 8
+    },
+    {
+      "nombreProducto": "factura con dulce de leche",
+      "precio": "80",
+      "imagen": "https://images.pexels.com/photos/1672304/pexels-photo-1672304.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "categoria": "dulce",
+      "id": 9
+    }
+  ],
+  "usuarios": []
+}
